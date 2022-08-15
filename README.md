@@ -130,8 +130,8 @@ With <b>Smart Park</b> you can offer your private parking for any time and price
 <div id="sec6">
 <ul>
     <small><h1>Demo videos</h1></small>
-    <b><li>Application features:</li><a href="https://streamable.com/kz5hzv">link</a></b>
-    <b><li>Park reservation features:</li><a href="https://streamable.com/ppfc2z">link</a></b>
-    <b><li>Half hour limitation:</li><a href="https://streamable.com/3w3e0n">link</a></b>
+    <b><li>Application features:</b> <a href="https://streamable.com/kz5hzv">link</a></li>
+    <b><li>Park reservation features:</b> <a href="https://streamable.com/ppfc2z">link</a></li>
+    <b><li>Half hour limitation:</b> <a href="https://streamable.com/3w3e0n">link</a></li>
 </ul>
 </div>
