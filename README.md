@@ -27,7 +27,8 @@ With <b>Smart Park</b> you can offer your private parking for any time and price
 <u><a href="#sec3">Tenant features and functions</a><br></u>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u><a href="#sec31">Tenant SignalR</a><br></u>
 <u><a href="#sec4">Camera App features and functions</a><br>
-<a href="#sec5">Storage tables</a></u>
+<a href="#sec5">Storage tables</a></u><br>
+<a href="#sec6">Demo videos</a></u>
 
 <br><br>
 <div id="sec1">
@@ -126,3 +127,11 @@ With <b>Smart Park</b> you can offer your private parking for any time and price
 </ul>
 </div>
 <br><br>
+<div id="sec6">
+<ul>
+    <small><h1>Demo videos</h1></small>
+    <b><li>Application features:</li><a href="https://streamable.com/kz5hzv">link</a></b>
+    <b><li>Park reservation features:</li><a href="https://streamable.com/ppfc2z">link</a></b>
+    <b><li>Half hour limitation:</li><a href="https://streamable.com/3w3e0n">link</a></b>
+</ul>
+</div>
