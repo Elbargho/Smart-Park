@@ -6,7 +6,7 @@ With <b>Smart Park</b> you can offer your private parking for any time and price
 <ul>
     <li> <mark><b>&nbsp;As Owner&nbsp;</b></mark>
     <ol>
-        <li>Download our App <a href=>here</a> and sign-up as owner</li>
+        <li>Download our App <a href="https://github.com/Elbargho/Smart-Park/tree/main/Smart%20Park%20App">here</a> and sign-up as owner</li>
         <li>Add your park providing its location, starting/ending time and price/h</li>
         <li>Place a device connected to a camera in your park</li>
         <li>Using the device, login to our Camera App <a href="https://cameraappiot.azurewebsites.net/">here</a>
@@ -14,7 +14,7 @@ With <b>Smart Park</b> you can offer your private parking for any time and price
     </li><br>
     <li> <mark><b>&nbsp;As Tenant&nbsp;</b></mark>
         <ol>
-            <li>Download our App <a href=>here</a> and sign-up as tenant</li>
+            <li>Download our App <a href="https://github.com/Elbargho/Smart-Park/tree/main/Smart%20Park%20App">here</a> and sign-up as tenant</li>
             <li>Pick your desired parking from the <i>Parks Table</i> section
         </ol>
     </li>
@@ -35,8 +35,8 @@ With <b>Smart Park</b> you can offer your private parking for any time and price
 <small><h1>General App features and functions</h1></small>
 <ul>
     <b><li>Login</b> (Username, Password)</li> <a href="https://github.com/Elbargho/Smart-Park/tree/main/Azure%20FunctionApps/usersignin">Code</a>&nbsp;&nbsp;&nbsp;Queries&nbsp;&nbsp;&nbsp;<a href="#accounts_table">Accounts Table</a><br>
-    <i>Note: Checks that username doesn't already exist</i>
     <b><li>Sign Up</b> (Username, Password, Credit Card, Plate Number, Account Type)</li> <a href="https://github.com/Elbargho/Smart-Park/tree/main/Azure%20FunctionApps/addnewuser">Code</a>&nbsp;&nbsp;&nbsp;Adds Entry to&nbsp;&nbsp;&nbsp;<a href="#accounts_table">Accounts Table</a>
+    <i>Note: Checks that username doesn't already exist</i>
     <b><li>My Profile</b> (Username, Password)</li> <a href="https://github.com/Elbargho/Smart-Park/tree/main/Azure%20FunctionApps/usersignin">Code</a>&nbsp;&nbsp;&nbsp;Queries&nbsp;&nbsp;&nbsp;<a href="#accounts_table">Accounts Table</a>
     <b><li>Update Profile</b> (Username, Old Password, New Password, Credit Card, Plate Number)</li> <a href="https://github.com/Elbargho/Smart-Park/tree/main/Azure%20FunctionApps/updateUser">Code</a>&nbsp;&nbsp;&nbsp;Updates Entity in&nbsp;&nbsp;&nbsp;<a href="#accounts_table">Accounts Table</a>
 </ul>
