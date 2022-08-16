@@ -1,5 +1,5 @@
 <h1>Smart Park</h1>
-<i><h3 style="margin-top: -20px;margin-bottom: 15px;">Your frineds for renting a park</h3></i>
+<i><h3 style="margin-top: -20px;margin-bottom: 15px;">Your friends for renting a park</h3></i>
 With <b>Smart Park</b> you can offer your private parking for any time and price you choose <i>or</i> you can rent a private park near your work.
 <br>
 <br>
